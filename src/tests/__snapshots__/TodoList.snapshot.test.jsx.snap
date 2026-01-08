@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`snapshot del TodoList 1`] = `
+<div>
+  <div>
+    <h1>
+      Lista de Tareas
+    </h1>
+    <ul>
+      <li>
+        <span
+          style="text-decoration: none; cursor: pointer;"
+        >
+          Tarea snapshot
+        </span>
+        <button>
+          Eliminar
+        </button>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
